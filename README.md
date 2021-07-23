@@ -30,12 +30,12 @@ The program takes a .rt file. More information about this format below...
 
 ## :wrench: BASIC INSTRUCTIONS
 
-Zoom | Translation | Change camera | Rotation
+Zoom | Move camera | Rotate camera | Change camera
 --- | --- | --- | ---
-**Move_up** : Zoom in | **W** : Move up | **Arrow left** : Previous camera | **Mouse** : Click on the desire direction you want the camera to look at. 
-**Move_down** : Zoom out | **S** : Move down | **Arrow right** : Next camera
- | **A** : Move left  |**X** : Orientir_Back 	|**-** : light plus	|**[** : FOV +
- | **D** : Move right |**N** : Normalizate_cam 	|**+** : light minus	|**]** : FOV -
+**+** : Zoom in | **8** : Move up | **Arrow left** : To the left |  **p** : Previous camera 
+**-** : Zoom out | **2** : Move down | **Arrow right** : To the right | **n** : Next camera
+ |               |**4** : Move left 	|**Arrow up** : Up	|
+ |               |**6** : Move right 	|**Arrow down** : Down	|
 ### BMP mode
 
 You can just save the generated image of scene (RT.bmp) with :  
